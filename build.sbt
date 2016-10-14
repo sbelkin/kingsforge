@@ -1,6 +1,6 @@
-lazy val kingsforge = (project in file(".")).
+lazy val kingsforge = (project in file("io.sbelkin.kingsforge")).
   settings(
-    name := "hello",
+    name := "kingsforge",
     version := "1.0",
     scalaVersion := "2.11.8"
   )
