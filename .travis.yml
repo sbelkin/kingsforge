@@ -1,5 +1,7 @@
 
 language: scala
+scala:
+  2.11.8
 
 notifications:
   slack: buildresponse:Rs13meHG1yiRI8DiMHuMWOkZ
