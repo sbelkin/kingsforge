@@ -1,4 +1,7 @@
 # kingsforge
+
+![build](https://travis-ci.org/sbelkin/kingsforge.svg?branch=master)
+
 Another attempt to code a game.
 
 Most of the game is based on rolling dice of 6 type.
