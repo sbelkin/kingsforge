@@ -2,8 +2,10 @@ package io.sbelkin.kingsforge.parse
 
 import java.io.File
 
+import io.sbelkin.kingsforge.entity.craft.{CraftCard, CraftCardRequirement}
+
 import scala.io.Source
-import io.sbelkin.kingsforge.entity.{CraftCard, CraftCardRequirement, DiceType}
+import io.sbelkin.kingsforge.entity.{CraftCardRequirement, DiceType}
 
 /**
   * Created by sbelkin on 10/13/2016.

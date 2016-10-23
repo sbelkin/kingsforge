@@ -1,7 +1,9 @@
-package io.sbelkin.kingsforge.entity
+package io.sbelkin.kingsforge.entity.craft
+
+import io.sbelkin.kingsforge.entity.DiceType
 
 /**
-  * Created by sbelkin on 10/13/2016.
+  * Created by sbelkin on 10/23/2016.
   */
 class CraftCard(count:Int, name:String, requirements: List[CraftCardRequirement]) {
 

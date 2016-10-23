@@ -2,8 +2,9 @@ package io.sbelkin.kingsforge
 
 import java.io.File
 
-import io.sbelkin.kingsforge.entity.{CraftCard, CraftCardRequirement, Dice, DiceType}
+import io.sbelkin.kingsforge.entity.{CraftCardRequirement, Dice, DiceType}
 import io.sbelkin.kingsforge.entity.DiceType._
+import io.sbelkin.kingsforge.entity.craft.CraftCard
 import io.sbelkin.kingsforge.parse.ParseCraftCards
 
 /**
